@@ -49,6 +49,6 @@ def main():
 		client.send_message('@get_any_telegram_id_bot', c)
 	except:
 		print('500')
-		main()
+	main()
 
 main()
