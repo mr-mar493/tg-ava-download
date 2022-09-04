@@ -1,4 +1,3 @@
-from ast import While
 from telethon import TelegramClient, events, sync
 from os import system
 from sys import platform
