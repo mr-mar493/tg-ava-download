@@ -11,7 +11,7 @@
   + **`git clone https://github.com/mr-mar493/telegram-script`**
   + **`cd telegram-script`**
   + **`python Install.py`**
-  + **`python RUN.py`**
+  + **`python main.py`**
 
 + #### **Windows 10/11:**
   + `Требуется 64 битная система`
@@ -21,7 +21,7 @@
   + `Открыть` **`cmd`** `или` **`powershell`**
   + `Перейти в директорию с файлами бомбера`
   + **`python Install.py`**
-  + **`python RUN.py`**
+  + **`python main.py`**
 
 # Меню
 
