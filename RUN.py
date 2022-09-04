@@ -1,2 +1,2 @@
 from os import system
-system('python run/test.py')
+system('python run/loader.py')
