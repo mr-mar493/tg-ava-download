@@ -40,7 +40,7 @@ banner()
 id = input("Ваш api_id: ")
 apiez = input("Ваш api_hash: ")
 api_id = id
-api_hash = "{apiez}"
+api_hash = apiez
 client = TelegramClient('an', api_id, api_hash)
 client.start()
 try:
