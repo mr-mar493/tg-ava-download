@@ -25,7 +25,7 @@
 
 # Меню
 
-![1](https://i.imgur.com/IOW4BCU.png)
+![image](https://user-images.githubusercontent.com/64781822/189353036-8e10f016-2dbf-4dd4-ac73-bb78459f1c99.png)
 
 ___
 # 💰Поддержать проект:
